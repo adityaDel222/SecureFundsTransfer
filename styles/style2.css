@@ -1,0 +1,13 @@
+.logout {
+	float: right;
+	padding: 0.5em;
+	font-family: Copperplate Gothic;
+	font-size: 1em;
+	color: #fff;
+	text-decoration: none;
+	margin-top: -0.5em;
+	margin-right: 2em;
+}
+.logout:hover {
+	border-top: 0.1em solid #aaa;
+}

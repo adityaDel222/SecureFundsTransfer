@@ -1,0 +1,33 @@
+table {
+	position: absolute;
+	top: 18em;
+	left: 7em;
+}
+.head_tr td {
+	background-color: #aaa;
+	font-weight: bold;
+}
+td {
+	font-family: Segoe UI Light;
+	font-size: 1.5em;
+	width: 7em;
+	padding: 1em;
+}
+.view_transactions td {
+	width: 8.5em;
+}
+.no_transactions, .no_complaints {
+	position: absolute;
+	top: 5em;
+	left: 2em;
+	font-family: Segoe UI Light;
+	font-size: 3em;
+	color: maroon;
+}
+.balance {
+	position: absolute;
+	top: 1.5em;
+	left: 0.75em;
+	font-family: Segoe UI Light;
+	font-size: 7em;
+}

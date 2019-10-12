@@ -1,0 +1,15 @@
+.balance {
+	position: absolute;
+	display: inline-block;
+	font-family: Segoe UI Light;
+	font-size: 1.5em;
+	font-weight: bold;
+	top: 11em;
+	left: 24em;
+}
+#proceeded {
+	opacity: 0.5;
+	position: absolute;
+	top: 17.2em;
+	left: 30em;
+}

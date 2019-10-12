@@ -1,0 +1,20 @@
+form {
+	margin-left: 5em;
+}
+input, textarea {
+	display: block;
+	margin-top: 1em;
+	padding: 0.5em;
+	font-family: Segoe UI Light;
+	font-size: 1.5em;
+}
+input[type="text"], input[type="password"] {
+	width: 15em;
+}
+input[type="number"] {
+	width: 12em;
+}
+textarea {
+	width: 20em;
+	height: 8em;
+}

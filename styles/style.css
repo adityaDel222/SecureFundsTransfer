@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+}
+.header {
+	background-color: maroon;
+	padding: 1em;
+}
+.header h1 {
+	margin-left: 2em;
+	font-family: Segoe UI Light;
+	font-size: 3em;
+	color: #fff;
+	text-shadow: 0.01em 0.01em 0.1em #000;
+}

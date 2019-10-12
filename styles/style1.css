@@ -1,0 +1,52 @@
+.top_links {
+	float: right;
+}
+.top_links a {
+	padding: 0.5em;
+	font-family: Copperplate Gothic;
+	font-size: 1em;
+	color: #fff;
+	text-decoration: none;
+}
+iframe {
+	position: relative;
+	margin-top: 5em;
+	margin-left: 5em;
+	box-shadow: 0.5em 0.5em 1em 0.1em #aaa;
+	border-radius: 1em;
+}
+form {
+	float: right;
+	margin-top: 5em;
+	margin-right: 12em;
+}
+form h2 {
+	font-family: Segoe UI Light;
+	font-size: 2em;
+	text-shadow: 0.02em 0.02em 0.01em #000;
+}
+form input {
+	display: block;
+	margin: 1em;
+	padding: 0.5em;
+	font-family: Segoe UI Light;
+	font-size: 1.25em;
+}
+form input[type="text"], form input[type="password"] {
+	width: 12em;
+	border: 0;
+	box-shadow: 0.1em 0.1em 0.01em 0.01em #f00;
+}
+form input[type="submit"] {
+	border: 0;
+	background-color: #fafad2;
+	box-shadow: 0.1em 0.1em 0.01em 0.01em wheat;
+}
+form input[type="submit"]:hover {
+	border: 0;
+	background-color: wheat;
+	box-shadow: 0.1em 0.1em 0.01em 0.01em wheat;
+}
+form input[type="text"]:focus, form input[type="password"] {
+	outline: none;
+}
