@@ -10,3 +10,4 @@ Instructions to Run the Application Successfully:
 4. Make sure you have an active internet connection (to run AES scripts and banner video).
 5. Open XAMPP Control Panel and Start the "Apache" and "MySQL" services.
 6. On your web browser, enter the url 'localhost/SFT/index.php' and run the application.
+7. Some sample data is provided in the file 'User Details' you might use to populate the 'users' database.
